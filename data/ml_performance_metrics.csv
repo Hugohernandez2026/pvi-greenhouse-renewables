@@ -1,0 +1,3 @@
+model,AUC,Brier,Log_loss
+Logistic regression,0.81,0.18,0.43
+Gradient-boosted trees,0.86,0.15,0.37

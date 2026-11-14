@@ -1,0 +1,7 @@
+config_id,name,capacity_kw,staged,stage1_share,hp_coupled,storage_kwh
+C1,Minimal staged PV,25,1,0.5,0,0
+C2,Mid-scale staged PV,55,1,0.5,0,0
+C3,Mid-scale full PV,55,0,1.0,0,0
+C4,Large full PV,100,0,1.0,0,0
+C5,PV+HP staged,50,1,0.5,1,0
+C6,Mid-scale staged PV+storage,55,1,0.5,0,40

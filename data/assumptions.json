@@ -1,0 +1,14 @@
+{
+  "horizon_years": 20,
+  "discount_rate": 0.08,
+  "pv_capex_usd_per_kw": 900,
+  "hp_capex_usd": 12000,
+  "storage_usd_per_kwh": 280,
+  "om_fraction_capex": 0.015,
+  "pv_specific_yield_kwh_per_kw": 1450,
+  "degradation_per_year": 0.005,
+  "grid_emission_factor_kgco2_per_kwh": 0.42,
+  "self_consumption_base": 0.72,
+  "hp_electric_cop": 3.2,
+  "currency": "USD"
+}

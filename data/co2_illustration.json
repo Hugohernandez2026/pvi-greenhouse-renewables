@@ -1,0 +1,10 @@
+{
+  "config": "Mid-scale staged PV (55 kW)",
+  "annual_generation_kwh": 79750,
+  "self_consumption_fraction": 0.72,
+  "avoided_grid_kwh_year": 57420.0,
+  "grid_ef_kgco2_per_kwh": 0.42,
+  "avoided_tco2_year": 24.12,
+  "horizon_years": 20,
+  "avoided_tco2_horizon_undiscounted": 482.3
+}

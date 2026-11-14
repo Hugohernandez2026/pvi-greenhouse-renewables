@@ -1,0 +1,25 @@
+{
+  "description": "Supporting dataset for PVI greenhouse renewable ranking under energy-price uncertainty",
+  "n_ml_samples": 1800,
+  "n_configurations": 6,
+  "load_hours": 8760,
+  "price_regimes": [
+    "low",
+    "base",
+    "high"
+  ],
+  "seed": 42,
+  "files": [
+    "greenhouse_load_hourly.csv",
+    "price_path_low.csv",
+    "price_path_base.csv",
+    "price_path_high.csv",
+    "configurations.csv",
+    "assumptions.json",
+    "ml_training_samples.csv",
+    "pvi_ranking_summary.csv",
+    "volatility_sensitivity.csv",
+    "ml_performance_metrics.csv",
+    "co2_illustration.json"
+  ]
+}
